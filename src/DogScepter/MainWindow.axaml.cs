@@ -3,7 +3,7 @@ using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 using System.Diagnostics;
 using System.Reflection;
-using GameBreaker.Core;
+using GameBreaker;
 using GameBreaker.Project;
 using DogScepter.Localization;
 using System.Runtime.InteropServices;

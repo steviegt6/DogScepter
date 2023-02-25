@@ -1,5 +1,5 @@
 ﻿using CliFx.Infrastructure;
-using GameBreaker.Core;
+using GameBreaker;
 using GameBreaker.Project;
 using System;
 using System.IO;

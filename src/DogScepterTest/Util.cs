@@ -1,4 +1,4 @@
-﻿using GameBreaker.Core;
+﻿using GameBreaker;
 using GameBreaker.Project;
 using GameBreaker.Project.GML.Decompiler;
 using System;

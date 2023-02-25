@@ -1,5 +1,5 @@
-﻿using GameBreaker.Core;
-using GameBreaker.Core.Chunks;
+﻿using GameBreaker;
+using GameBreaker.Chunks;
 using GameBreaker.Project;
 using GameBreaker.Project.GML.Decompiler;
 using System;

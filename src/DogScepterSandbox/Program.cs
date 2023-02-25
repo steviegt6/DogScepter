@@ -1,9 +1,9 @@
 ﻿// Project for testing random portions of code as features are developed
 
 using System;
-using GameBreaker.Core;
-using GameBreaker.Core.Chunks;
-using GameBreaker.Core.Models;
+using GameBreaker;
+using GameBreaker.Chunks;
+using GameBreaker.Models;
 using GameBreaker.Project;
 using GameBreaker.Project.GML.Compiler;
 using GameBreaker.Project.GML.Decompiler;
