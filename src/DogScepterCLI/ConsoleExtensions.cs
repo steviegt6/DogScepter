@@ -1,6 +1,6 @@
 ﻿using CliFx.Infrastructure;
-using DogScepterLib.Core;
-using DogScepterLib.Project;
+using GameBreaker.Core;
+using GameBreaker.Project;
 using System;
 using System.IO;
 using System.Linq;

@@ -21,6 +21,6 @@
     <PackageReference Include="MessageBox.Avalonia" Version="1.1.1" />
    </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DogScepterLib\DogScepterLib.csproj" />
+    <ProjectReference Include="..\GameBreaker\GameBreaker.csproj" />
   </ItemGroup>
 </Project>

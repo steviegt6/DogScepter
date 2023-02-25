@@ -1,6 +1,6 @@
-﻿using DogScepterLib.Core;
-using DogScepterLib.Project;
-using DogScepterLib.Project.GML.Decompiler;
+﻿using GameBreaker.Core;
+using GameBreaker.Project;
+using GameBreaker.Project.GML.Decompiler;
 using System;
 using System.IO;
 

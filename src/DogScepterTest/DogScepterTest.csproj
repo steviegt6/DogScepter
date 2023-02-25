@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DogScepterLib\DogScepterLib.csproj" />
+    <ProjectReference Include="..\GameBreaker\GameBreaker.csproj" />
   </ItemGroup>
 
 </Project>

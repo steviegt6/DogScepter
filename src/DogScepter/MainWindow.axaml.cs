@@ -3,8 +3,8 @@ using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 using System.Diagnostics;
 using System.Reflection;
-using DogScepterLib.Core;
-using DogScepterLib.Project;
+using GameBreaker.Core;
+using GameBreaker.Project;
 using DogScepter.Localization;
 using System.Runtime.InteropServices;
 using System;
@@ -15,7 +15,7 @@ using MessageBox.Avalonia.DTO;
 using MessageBox.Avalonia.Enums;
 using System.Threading.Tasks;
 using System.Threading;
-using DogScepterLib.User;
+using GameBreaker.User;
 
 namespace DogScepter
 {

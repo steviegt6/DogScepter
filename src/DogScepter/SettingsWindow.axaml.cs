@@ -1,7 +1,7 @@
 using Avalonia;
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
-using DogScepterLib.User;
+using GameBreaker.User;
 
 namespace DogScepter
 {

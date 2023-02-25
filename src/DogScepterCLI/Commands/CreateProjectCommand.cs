@@ -1,9 +1,9 @@
 ﻿using CliFx;
 using CliFx.Attributes;
 using CliFx.Infrastructure;
-using DogScepterLib.Core;
-using DogScepterLib.Project;
-using DogScepterLib.User;
+using GameBreaker.Core;
+using GameBreaker.Project;
+using GameBreaker.User;
 using System;
 using System.IO;
 using System.Threading.Tasks;

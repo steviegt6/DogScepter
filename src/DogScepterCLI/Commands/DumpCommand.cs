@@ -1,17 +1,17 @@
 ﻿using CliFx;
 using CliFx.Attributes;
 using CliFx.Infrastructure;
-using DogScepterLib.Core;
-using DogScepterLib.Core.Chunks;
-using DogScepterLib.Project;
-using DogScepterLib.Project.Converters;
-using DogScepterLib.Project.GML.Decompiler;
-using DogScepterLib.Project.Util;
+using GameBreaker.Core;
+using GameBreaker.Core.Chunks;
+using GameBreaker.Project;
+using GameBreaker.Project.Converters;
+using GameBreaker.Project.GML.Decompiler;
+using GameBreaker.Project.Util;
 using System;
 using System.IO;
 using System.Text;
 using System.Threading.Tasks;
-using DogScepterLib.Core.Models;
+using GameBreaker.Core.Models;
 using System.Diagnostics;
 
 namespace DogScepterCLI.Commands;

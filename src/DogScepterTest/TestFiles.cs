@@ -1,7 +1,7 @@
-﻿using DogScepterLib.Core;
-using DogScepterLib.Core.Chunks;
-using DogScepterLib.Project;
-using DogScepterLib.Project.GML.Decompiler;
+﻿using GameBreaker.Core;
+using GameBreaker.Core.Chunks;
+using GameBreaker.Project;
+using GameBreaker.Project.GML.Decompiler;
 using System;
 using System.Collections.Generic;
 using System.IO;

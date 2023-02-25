@@ -1,11 +1,11 @@
 ﻿// Project for testing random portions of code as features are developed
 
-using DogScepterLib.Core;
-using DogScepterLib.Core.Chunks;
-using DogScepterLib.Core.Models;
-using DogScepterLib.Project;
-using DogScepterLib.Project.GML.Compiler;
-using DogScepterLib.Project.GML.Decompiler;
+using GameBreaker.Core;
+using GameBreaker.Core.Chunks;
+using GameBreaker.Core.Models;
+using GameBreaker.Project;
+using GameBreaker.Project.GML.Compiler;
+using GameBreaker.Project.GML.Decompiler;
 
 ProjectFile pf = DogScepterTest.Util.BasicLoadProject("data.win", null, Console.WriteLine);
 
